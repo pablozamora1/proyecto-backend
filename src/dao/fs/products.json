@@ -1,0 +1,173 @@
+[
+  {
+    "id": "OQ",
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "code": "avc135",
+    "stock": "6"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "id": "eoOsM2U28EJcohxoTwEZA"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "id": "hyk"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "id": "95u"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "id": "cT0"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "id": "kXW"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": "1if"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": "2R-"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": "gzH"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": "nE6"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc136",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": "dlO"
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123456",
+    "img": "",
+    "code": "avc137",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": null
+  },
+  {
+    "title": "iphone",
+    "description": "256gb",
+    "price": "123457",
+    "img": "",
+    "code": "avc138",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": null
+  },
+  {
+    "title": "iphone",
+    "description": "257",
+    "price": "123457",
+    "img": "",
+    "code": "avc140",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": "qnL"
+  },
+  {
+    "title": "iphone",
+    "description": "257",
+    "price": "123457",
+    "img": "",
+    "code": "avc147",
+    "stock": "6",
+    "category": "celulares",
+    "status": true,
+    "thumbnails": [],
+    "id": "moh"
+  }
+]
